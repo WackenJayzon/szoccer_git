@@ -1,0 +1,1 @@
+# szoccer_git
